@@ -10,6 +10,10 @@ The goal of this project is to quickly make a basic recipe site using solely HTM
 
 The project itself will largely consist of the main index.html page and a few recipes.
 
+## Todo
+1. Add two more recipes.
+2. Spruce up the home page a little.
+
 ## Assignment
 
 ### Iteration 1: Initial Structure
