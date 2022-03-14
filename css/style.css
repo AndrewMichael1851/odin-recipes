@@ -1,0 +1,28 @@
+:root {
+    --paragraph-font-family: "Times New Roman", sans-serif;
+    --header-font-family: "Garamond", sans-serif;
+    --primary-color-gray: #2d2d2d;
+    --primary-color-gray-light: #2d2d2df2;
+    --accent-color-blue: #2c5373;
+    --accent-color-gold: #ebc984;
+    --background-color-eggshell: #eff0eb;
+}
+
+body {
+    background-color: var(--background-color-eggshell);
+}
+
+p {
+    color: var(--primary-color-gray-light);
+    font-family: var(--paragraph-font-family);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: var(--primary-color-gray);
+    font-family: var(--header-font-family);
+}
