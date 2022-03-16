@@ -11,7 +11,7 @@ The goal of this project is to quickly make a basic recipe site using solely HTM
 The project itself will largely consist of the main index.html page and a few recipes.
 
 ## Todo
-1. Spruce up the home page a little.
+1. N/A
 
 ## Assignment
 
@@ -40,4 +40,4 @@ The project itself will largely consist of the main index.html page and a few re
 This project primarily uses basic skills such as headings, paragraphs, lists, images, etc.
 
 ## Reflections
-{Fill out when the project is complete.}
+The project was generally pretty easy to complete since it was only testing for HTML and basic CSS. Honestly I would love to go and make a more fleshed-out recipe site at some point, possibly using a database to store the recipes, but that's a thought for a later time.
